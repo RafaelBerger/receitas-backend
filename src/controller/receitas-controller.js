@@ -1,5 +1,3 @@
-// import { Receitas } from "../model/receitas-model";
+import { Receitas } from "../model/receitas-model";
 
-// const EnviaDadosProBancoTeste = () => {
-
-// }
+const EnviaDadosProBancoTeste = (req, res) => {};
